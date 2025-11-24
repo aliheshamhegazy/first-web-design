@@ -24,7 +24,8 @@ header {
   align-items: center;
   gap: 10%;
   cursor: pointer;
-  transition: 0.3s
+  transition: 0.3s;
+  margin-right:-2%;
 }
 .bar {
   font-size: 17px;
@@ -143,3 +144,4 @@ header {
   }
 
 }
+
