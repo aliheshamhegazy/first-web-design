@@ -6,7 +6,7 @@ body {
   background-attachment: fixed;
   background-size:cover;
   background-repeat:no-repeat;
-  background-image: url(images/simple-website-bg-img.jpg);
+  background-image: url(simple-website-bg-img.jpg);
 }
 header {
   display: flex;
@@ -141,4 +141,5 @@ header {
     padding: 10px 0;
     font-size: 14px;
   }
+
 }
